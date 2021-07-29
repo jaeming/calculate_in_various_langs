@@ -31,3 +31,21 @@ WARNING: Unmatched cancel notification for request id 1110
 [0m2021.07.28 21:42:21 WARN  no build target for: /home/benji/calc/scala/Calculator.scala[0m
 Jul 28, 2021 9:42:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+Jul 28, 2021 9:44:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 28, 2021 9:44:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1350
+Jul 28, 2021 9:50:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 28, 2021 10:00:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 28, 2021 10:00:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.07.28 22:32:31 WARN  no build target for: /home/benji/calc/scala/Calculator.scala[0m
+[0m2021.07.28 22:32:40 WARN  no build target for: /home/benji/calc/scala/Calculator.scala[0m
+[0m2021.07.28 22:33:04 WARN  no build target for: /home/benji/calc/scala/Calculator.scala[0m
+Jul 28, 2021 10:33:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1465
+Jul 28, 2021 10:33:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1489
+[0m2021.07.28 23:06:09 INFO  shutting down Metals[0m
